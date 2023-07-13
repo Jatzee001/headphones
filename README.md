@@ -1,3 +1,3 @@
 my first readme file
 for design website 
-from scratch
+from scratch up
